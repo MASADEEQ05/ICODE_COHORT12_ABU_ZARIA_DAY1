@@ -1,0 +1,16 @@
+ICP ABU SERIES
+EXERCISE 1
+I.	Number node providers in Africa
+II.	Africa, Za, Gauteng
+Gauteng 2
+Data Center ID jb2
+Data center owner: Africa Data Center
+Replica nodes 18
+API boundary Nodes
+Total Nodes
+Node Providers
+Subnets
+
+EXERCISE 2: Viewing a subnet
+I.	Number of camstars
+II.	Number of blocks 
